@@ -1,0 +1,21 @@
+{
+    "name": "@kazssym/bitbucket-api",
+    "version": "1.0.0-pre.1",
+    "description": "Bitbucket API Client Library for Node.js.",
+    "keywords": [
+        "bitbucket"
+    ],
+    "bugs": {
+        "url": "https://bitbucket.org/vx68k/bitbucket-api-client-node/issues"
+    },
+    "license": "GPL-3.0",
+    "repository": {
+        "type": "hg",
+        "url": "https://bitbucket.org/vx68k/bitbucket-api-client-node"
+    },
+    "scripts": {
+    },
+    "engines": {
+        "node": ">=6.5"
+    }
+}
