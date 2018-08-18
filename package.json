@@ -8,7 +8,7 @@
     "bugs": {
         "url": "https://bitbucket.org/vx68k/bitbucket-api-client-node/issues"
     },
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-or-later",
     "repository": {
         "type": "hg",
         "url": "https://bitbucket.org/vx68k/bitbucket-api-client-node"
