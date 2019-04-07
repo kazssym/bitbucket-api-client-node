@@ -1,5 +1,5 @@
 # rocro.yml - Inspecode configuration for Node.js projects
-# Copyright (C) 2018 Kaz Nishimura
+# Copyright (C) 2018-2019 Kaz Nishimura
 #
 # Copying and distribution of this file, with or without modification, are
 # permitted in any medium without royalty provided the copyright notice and
@@ -9,6 +9,4 @@
 ---
 inspecode:
   misspell: {}
-  eslint:
-    options:
-      --env: node,es6
+  eslint: {}
