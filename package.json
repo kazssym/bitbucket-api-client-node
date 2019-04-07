@@ -1,7 +1,7 @@
 {
     "name": "@kazssym/bitbucket-api",
     "version": "1.0.0-pre.1",
-    "description": "Bitbucket API Client Library for Node.js.",
+    "description": "Node.js Client API for Bitbucket Cloud.",
     "keywords": [
         "bitbucket"
     ],
